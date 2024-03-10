@@ -57,6 +57,8 @@ eeg_channel_names = [
     "Timestamp",
     "Marker"]
 
+number_channels = 8 
+
 # epoch configuration
 eeg_epoch_t_min = -0.2
 eeg_epoch_t_max = 1.0
@@ -98,10 +100,10 @@ local_paths = {
         filename='toy/' + name)
     for k, name in file_names.items()}
 
-torch_module = EEGNetv4(n_chans=3, n_outputs=2, n_times=200)
+torch_module = EEGNetv4(n_chans=number_channels, n_outputs=2, n_times=300) # (n_chans=3, n_outputs=2, n_times=200)
 torch_module.load_state_dict(torch.load(local_paths['torch']))
 
-skorch_module = EEGNetv4(n_chans=3, n_outputs=2, n_times=200)
+skorch_module = EEGNetv4(n_chans=number_channels, n_outputs=2, n_times=300) # (n_chans=3, n_outputs=2, n_times=200)
 skorch_classifier = EEGClassifier(skorch_module, max_epochs=5)
 skorch_classifier.initialize()
 skorch_classifier.load_params(f_params=local_paths['f_params'],
