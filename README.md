@@ -4,7 +4,7 @@
 
 CortexType, a project part of the [Neureality Hackathon](https://neureality-cu.github.io/Neureality/hackathon.html), uses Brain-Computer Interface (BCI) technology to enable typing via thoughts. Focusing on the P300 brainwave, it empowers individuals with severe physical disabilities to communicate without physical movement. This innovative method not only eases computer interaction but also significantly enhances environmental connectivity.
 
-## EEG Device and Data Collection
+## Data Collection
 Data for the project was collected live using the [g.tec Unicorn Hybrid Black Headset](https://www.gtec.at/product/unicorn-hybrid-black/). This 8-channel EEG device captures brainwave signals, essential for the functionality of CortexType.
 
 ## Repository Structure
