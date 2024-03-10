@@ -10,7 +10,7 @@ The project is implemented as part of [Neureality Hackathon](https://neureality-
 This repository contains the following files and directories:
 - `models` folder: Code of different encoder-decoder models 
 - `starter-code-unity` folder: Code to start VR/AR session
-- `ff`: Task description
+- `hackathon-task-description.pdf`: Task description
 - `README.md`: This file provides an overview of the project, its objectives, and the contents of the repository.
 
 ## References
