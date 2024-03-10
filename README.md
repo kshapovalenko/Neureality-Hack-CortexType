@@ -6,6 +6,9 @@ CortexType revolutionizes the way individuals with severe physical disabilities 
 
 The project is implemented as part of [Neureality Hackathon](https://neureality-cu.github.io/Neureality/hackathon.html).
 
+## EEG Device and Data Collection
+The data was collected lively via the [8-channel EEG Unicorn Hybrid Black](https://www.gtec.at/product/unicorn-hybrid-black/).
+
 ## Repository Structure
 This repository contains the following files and directories:
 - `models` folder: Code of different encoder-decoder models 
