@@ -2,9 +2,9 @@
 
 ## Motivation 
 
-Typing is hard, slow, and boring.  
-But more importantly, it’s not accessible for many people.  
-What if there is no physical barrier between your mind and the digital interface? 
+Typing is hard, slow, and boring.   
+But more importantly, it’s not accessible for many people.    
+What if there is no physical barrier between your mind and the digital interface?     
 What if you could type just with your mind?
 
 ## Objectives
