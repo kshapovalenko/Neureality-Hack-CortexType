@@ -1,4 +1,4 @@
-# CortexType: EEG-Based Thought-to-Text Conversion
+# CortexType: Typing with your mind 
 
 ## Motivation 
 
