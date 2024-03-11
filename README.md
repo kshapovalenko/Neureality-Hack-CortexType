@@ -1,6 +1,13 @@
 # CortexType: EEG-Based Thought-to-Text Conversion
 
-## Background and Objectives
+## Motivation 
+
+Typing is hard, slow, and boring.  
+But more importantly, it’s not accessible for many people.  
+What if there is no physical barrier between your mind and the digital interface? 
+What if you could type just with your mind?
+
+## Objectives
 
 CortexType, a project part of the [Neureality Hackathon](https://neureality-cu.github.io/Neureality/hackathon.html), uses Brain-Computer Interface (BCI) technology to enable typing via thoughts. Focusing on the P300 brainwave, it empowers individuals with severe physical disabilities to communicate without physical movement. This innovative method not only eases computer interaction but also significantly enhances environmental connectivity.
 
