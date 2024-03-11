@@ -9,6 +9,7 @@ Data for the project was collected live using the [g.tec Unicorn Hybrid Black He
 
 ## Repository Structure
 This repository contains the following files and directories:
+- `presentation.pdf`: Final presentation
 - `models` folder: Code of different encoder-decoder models 
 - `starter-code-unity` folder: Code to start VR/AR session
 - `hackathon-task-description.pdf`: Task description
