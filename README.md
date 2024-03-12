@@ -20,6 +20,7 @@ This repository contains the following files and directories:
 - `models` folder: Code of different encoder-decoder models 
 - `starter-code-unity` folder: Code to start VR/AR session
 - `hackathon-task-description.pdf`: Task description
+- `demo`: See the Google Drive folder: https://drive.google.com/drive/folders/1nHZVbcAJjP8bOburcpyaqJV_QF3W0rbg?usp=sharing
 - `README.md`: This file provides an overview of the project, its objectives, and the contents of the repository.
 
 ## References
