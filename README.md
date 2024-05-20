@@ -1,4 +1,4 @@
-# CortexType: Typing with Your Mind 
+# CortexType - Typing with Your Mind 
 
 ## Motivation 
 
